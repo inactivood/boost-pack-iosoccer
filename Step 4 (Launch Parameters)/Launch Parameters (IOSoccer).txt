@@ -1,0 +1,1 @@
++fps_max 0 -tickrate 128 -high -novid -nojoy +r_dynamic 0 -softparticlesdefaultoff +cl_forcepreload 1 -limitvsconst +mat_queue_mode 2 -forcenovsync -disable_d3d9ex -r_emulate_g
